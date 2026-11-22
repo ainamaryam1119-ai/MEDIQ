@@ -1,0 +1,6 @@
+{
+  "name": "MediQ AI — Smart Pharmacy Assistant",
+  "description": "Smart pharmacy inventory management, expiry alert system, analytics, and multilingual AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
